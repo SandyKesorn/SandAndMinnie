@@ -1,4 +1,4 @@
 print("hi")
 
 
-print("hihi")
+print("I love maths yay, Minnie does too!!")
